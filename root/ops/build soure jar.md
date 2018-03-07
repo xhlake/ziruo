@@ -2,9 +2,8 @@
 
 ## 添加以下代码在要打的那个模块pom中
 
-
-`<code>
-    <build>
+``` 
+<build>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
@@ -34,5 +33,5 @@
                 </executions>
             </plugin>
         </plugins>
-    </build>
-</code>`
+</build>
+```
