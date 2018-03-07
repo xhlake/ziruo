@@ -1,6 +1,6 @@
 # how to build a source jar
 
-## 添加以下代码在要打的那个模块pom下面
+## 添加以下代码在要打的那个模块pom中
 
 <code>
     <build>
@@ -34,4 +34,5 @@
                 </plugin>
             </plugins>
         </build>
+       
 </code>
